@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <settings default="NYIT Project Copyrights 2014">
+    <module2copyright>
+      <element module="All" copyright="NYIT Project Copyrights 2014" />
+      <element module="Project Files" copyright="NYIT Project Copyrights 2014" />
+    </module2copyright>
+  </settings>
+</component>
